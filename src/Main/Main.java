@@ -26,9 +26,6 @@ public class Main {
 		System.out.println("Se encontró: ");
 		System.out.println(imp.buscar(1));
 		
-		float op = 45*78;
-		System.out.println("Resultado de la opracion: "+op);
-		
 		//Editar
 		imp.editar(0, c2);
 		
